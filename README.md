@@ -2,8 +2,8 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcolombo&show_icons=true&theme=tokyonight&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathcolombo&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/mathcolombo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hycadu&show_icons=true&theme=tokyonight&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hycadu&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/hycadu/github-readme-stats)
 
 ##
 
